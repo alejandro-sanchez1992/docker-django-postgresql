@@ -33,3 +33,8 @@ apps/static/assets/.temp
 .env__
 .idea/
 migrations
+
+
+postgres
+postgres/*
+postgres/data/*
