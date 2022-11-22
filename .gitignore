@@ -35,6 +35,6 @@ apps/static/assets/.temp
 migrations
 
 
-postgres
+postgres*
 postgres/*
 postgres/data/*
